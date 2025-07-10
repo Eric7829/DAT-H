@@ -1,0 +1,653 @@
+{
+  "mbtiQuestions": [
+    {
+      "number": 3,
+      "part": "I",
+      "dichotomy": "E-I",
+      "facet": "Enthusiastic / Quiet",
+      "question": "Are you usually",
+      "options": {
+        "A": {
+          "text": "a 'good mixer,' or",
+          "pole": "E",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "rather quiet and reserved?",
+          "pole": "I",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
+      "number": 9,
+      "part": "I",
+      "dichotomy": "S-N",
+      "facet": "Practical / Conceptual",
+      "question": "Would you rather be considered",
+      "options": {
+        "A": {
+          "text": "a practical person, or",
+          "pole": "S",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "an ingenious person?",
+          "pole": "N",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
+      "number": 11,
+      "part": "I",
+      "dichotomy": "S-N",
+      "facet": "Realistic / Imaginative",
+      "question": "Are you more attracted to",
+      "options": {
+        "A": {
+          "text": "a person with a quick and brilliant mind, or",
+          "pole": "N",
+          "scoreKey": 0
+        },
+        "B": {
+          "text": "a practical person with a lot of common sense?",
+          "pole": "S",
+          "scoreKey": 1
+        }
+      }
+    },
+    {
+      "number": 21,
+      "part": "I",
+      "dichotomy": "T-F",
+      "facet": "Logical / Empathetic",
+      "question": "Are you inclined to",
+      "options": {
+        "A": {
+          "text": "value sentiment more than logic, or",
+          "pole": "F",
+          "scoreKey": 0
+        },
+        "B": {
+          "text": "value logic more than sentiment?",
+          "pole": "T",
+          "scoreKey": 1
+        }
+      }
+    },
+    {
+      "number": 26,
+      "part": "I",
+      "dichotomy": "E-I",
+      "facet": "Expressive / Contained",
+      "question": "Would most people say you are",
+      "options": {
+        "A": {
+          "text": "a private person, or",
+          "pole": "I",
+          "scoreKey": 0
+        },
+        "B": {
+          "text": "a very open person?",
+          "pole": "E",
+          "scoreKey": 1
+        }
+      }
+    },
+    {
+      "number": 30,
+      "part": "II",
+      "dichotomy": "S-N",
+      "facet": "Practical / Conceptual",
+      "options": {
+        "A": {
+          "text": "facts",
+          "pole": "S",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "ideas",
+          "pole": "N",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
+      "number": 31,
+      "part": "II",
+      "dichotomy": "T-F",
+      "facet": "Logical / Empathetic",
+      "options": {
+        "A": {
+          "text": "thinking",
+          "pole": "T",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "feeling",
+          "pole": "F",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
+      "number": 32,
+      "part": "II",
+      "dichotomy": "E-I",
+      "facet": "Enthusiastic / Quiet",
+      "options": {
+        "A": {
+          "text": "hearty",
+          "pole": "E",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "quiet",
+          "pole": "I",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
+      "number": 33,
+      "part": "II",
+      "dichotomy": "T-F",
+      "facet": "Tough / Tender",
+      "options": {
+        "A": {
+          "text": "convincing",
+          "pole": "T",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "touching",
+          "pole": "F",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
+      "number": 35,
+      "part": "II",
+      "dichotomy": "T-F",
+      "facet": "Logical / Empathetic",
+      "options": {
+        "A": {
+          "text": "analyze",
+          "pole": "T",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "sympathize",
+          "pole": "F",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
+      "number": 37,
+      "part": "II",
+      "dichotomy": "T-F",
+      "facet": "Reasonable / Compassionate",
+      "options": {
+        "A": {
+          "text": "sensitive",
+          "pole": "F",
+          "scoreKey": 0
+        },
+        "B": {
+          "text": "just",
+          "pole": "T",
+          "scoreKey": 1
+        }
+      }
+    },
+    {
+      "number": 38,
+      "part": "II",
+      "dichotomy": "E-I",
+      "facet": "Enthusiastic / Quiet",
+      "options": {
+        "A": {
+          "text": "reserved",
+          "pole": "I",
+          "scoreKey": 0
+        },
+        "B": {
+          "text": "talkative",
+          "pole": "E",
+          "scoreKey": 1
+        }
+      }
+    },
+    {
+      "number": 40,
+      "part": "II",
+      "dichotomy": "T-F",
+      "facet": "Reasonable / Compassionate",
+      "options": {
+        "A": {
+          "text": "compassion",
+          "pole": "F",
+          "scoreKey": 0
+        },
+        "B": {
+          "text": "foresight",
+          "pole": "T",
+          "scoreKey": 1
+        }
+      }
+    },
+    {
+      "number": 42,
+      "part": "II",
+      "dichotomy": "E-I",
+      "facet": "Enthusiastic / Quiet",
+      "options": {
+        "A": {
+          "text": "quiet",
+          "pole": "I",
+          "scoreKey": 0
+        },
+        "B": {
+          "text": "outgoing",
+          "pole": "E",
+          "scoreKey": 1
+        }
+      }
+    },
+    {
+      "number": 46,
+      "part": "II",
+      "dichotomy": "S-N",
+      "facet": "Concrete / Abstract",
+      "options": {
+        "A": {
+          "text": "idea",
+          "pole": "N",
+          "scoreKey": 0
+        },
+        "B": {
+          "text": "actuality",
+          "pole": "S",
+          "scoreKey": 1
+        }
+      }
+    },
+    {
+      "number": 48,
+      "part": "II",
+      "dichotomy": "S-N",
+      "facet": "Realistic / Imaginative",
+      "options": {
+        "A": {
+          "text": "imaginative",
+          "pole": "N",
+          "scoreKey": 0
+        },
+        "B": {
+          "text": "matter-of-fact",
+          "pole": "S",
+          "scoreKey": 1
+        }
+      }
+    },
+    {
+      "number": 53,
+      "part": "II",
+      "dichotomy": "T-F",
+      "facet": "Logical / Empathetic",
+      "options": {
+        "A": {
+          "text": "compassionate",
+          "pole": "F",
+          "scoreKey": 0
+        },
+        "B": {
+          "text": "logical",
+          "pole": "T",
+          "scoreKey": 1
+        }
+      }
+    },
+    {
+      "number": 56,
+      "part": "II",
+      "dichotomy": "T-F",
+      "facet": "Reasonable / Compassionate",
+      "options": {
+        "A": {
+          "text": "fair-minded",
+          "pole": "T",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "caring",
+          "pole": "F",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
+      "number": 60,
+      "part": "II",
+      "dichotomy": "S-N",
+      "facet": "Concrete / Abstract",
+      "options": {
+        "A": {
+          "text": "concrete",
+          "pole": "S",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "abstract",
+          "pole": "N",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
+      "number": 62,
+      "part": "II",
+      "dichotomy": "E-I",
+      "facet": "Expressive / Contained",
+      "options": {
+        "A": {
+          "text": "open",
+          "pole": "E",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "private",
+          "pole": "I",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
+      "number": 65,
+      "part": "II",
+      "dichotomy": "S-N",
+      "facet": "Realistic / Imaginative",
+      "options": {
+        "A": {
+          "text": "imaginative",
+          "pole": "N",
+          "scoreKey": 0
+        },
+        "B": {
+          "text": "realistic",
+          "pole": "S",
+          "scoreKey": 1
+        }
+      }
+    },
+    {
+      "number": 66,
+      "part": "II",
+      "dichotomy": "T-F",
+      "facet": "Critical / Accepting",
+      "options": {
+        "A": {
+          "text": "competent",
+          "pole": "T",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "kindhearted",
+          "pole": "F",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
+      "number": 67,
+      "part": "II",
+      "dichotomy": "S-N",
+      "facet": "Experiential / Theoretical",
+      "options": {
+        "A": {
+          "text": "theory",
+          "pole": "N",
+          "scoreKey": 0
+        },
+        "B": {
+          "text": "fact",
+          "pole": "S",
+          "scoreKey": 1
+        }
+      }
+    },
+    {
+      "number": 73,
+      "part": "II",
+      "dichotomy": "S-N",
+      "facet": "Traditional / Original",
+      "options": {
+        "A": {
+          "text": "practical",
+          "pole": "S",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "innovative",
+          "pole": "N",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
+      "number": 74,
+      "part": "III",
+      "dichotomy": "E-I",
+      "facet": "Active / Reflective",
+      "question": "Do you find being around a lot of people",
+      "options": {
+        "A": {
+          "text": "gives you more energy, or",
+          "pole": "E",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "is often 'draining'?",
+          "pole": "I",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
+      "number": 79,
+      "part": "III",
+      "dichotomy": "E-I",
+      "facet": "Gregarious / Intimate",
+      "question": "Do you usually",
+      "options": {
+        "A": {
+          "text": "mingle well with others, or",
+          "pole": "E",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "tend to keep more to yourself?",
+          "pole": "I",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
+      "number": 82,
+      "part": "III",
+      "dichotomy": "S-N",
+      "facet": "Practical / Conceptual",
+      "question": "Do you generally prefer courses that teach",
+      "options": {
+        "A": {
+          "text": "concepts and principles, or",
+          "pole": "N",
+          "scoreKey": 0
+        },
+        "B": {
+          "text": "facts and figures?",
+          "pole": "S",
+          "scoreKey": 1
+        }
+      }
+    },
+    {
+      "number": 83,
+      "part": "III",
+      "dichotomy": "E-I",
+      "facet": "Initiating / Receiving",
+      "question": "At parties do you",
+      "options": {
+        "A": {
+          "text": "do much of the talking, or",
+          "pole": "E",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "let others do most of the talking?",
+          "pole": "I",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
+      "number": 87,
+      "part": "III",
+      "dichotomy": "T-F",
+      "facet": "Reasonable / Compassionate",
+      "question": "Which is a higher compliment, to be called",
+      "options": {
+        "A": {
+          "text": "competent, or",
+          "pole": "T",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "compassionate?",
+          "pole": "F",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
+      "number": 91,
+      "part": "III",
+      "dichotomy": "E-I",
+      "facet": "Gregarious / Intimate",
+      "question": "In social situations do you generally find it",
+      "options": {
+        "A": {
+          "text": "difficult to start and maintain a conversation with some people, or",
+          "pole": "I",
+          "scoreKey": 0
+        },
+        "B": {
+          "text": "easy to talk to most people for long periods of time?",
+          "pole": "E",
+          "scoreKey": 1
+        }
+      }
+    }
+  ],
+  "attitudeQuestions": [
+    {
+      "id": "likert_att_tite_1",
+      "name": "TiTe_Q1",
+      "text": "When learning something new, my focus is on:",
+      "construct1": { "pole": "Ti", "description": "Understanding the underlying principles and why it works." },
+      "construct2": { "pole": "Te", "description": "Understanding how to use it effectively to achieve a goal." },
+      "constructPair": "TiTe"
+    },
+    {
+      "id": "likert_att_tite_2",
+      "name": "TiTe_Q2",
+      "text": "I prioritize:",
+      "construct1": { "pole": "Ti", "description": "Ensuring my understanding is precise and logically consistent." },
+      "construct2": { "pole": "Te", "description": "Getting things done efficiently and achieving the objective." },
+      "constructPair": "TiTe"
+    },
+    {
+      "id": "likert_att_tite_3",
+      "name": "TiTe_Q3",
+      "text": "My strength lies in:",
+      "construct1": { "pole": "Ti", "description": "Analyzing systems and building precise internal models." },
+      "construct2": { "pole": "Te", "description": "Organizing resources and implementing plans in the real world." },
+      "constructPair": "TiTe"
+    },
+    {
+      "id": "likert_att_fife_1",
+      "name": "FiFe_Q1",
+      "text": "When a friend is upset, my initial reaction is to:",
+      "construct1": { "pole": "Fi", "description": "Consider how I would feel and what would be important to me." },
+      "construct2": { "pole": "Fe", "description": "Understand what they are going through and how they need support." },
+      "constructPair": "FiFe"
+    },
+    {
+      "id": "likert_att_fife_2",
+      "name": "FiFe_Q2",
+      "text": "My decisions are more guided by:",
+      "construct1": { "pole": "Fi", "description": "What aligns with my personal values and feels genuinely right to me." },
+      "construct2": { "pole": "Fe", "description": "How the decision will impact the well-being of everyone involved." },
+      "constructPair": "FiFe"
+    },
+    {
+      "id": "likert_att_fife_3",
+      "name": "FiFe_Q3",
+      "text": "My sense of right and wrong comes from:",
+      "construct1": { "pole": "Fi", "description": "My core values, even if others don't understand." },
+      "construct2": { "pole": "Fe", "description": "The impact on group harmony and shared social values." },
+      "constructPair": "FiFe"
+    },
+    {
+      "id": "likert_att_sise_1",
+      "name": "SiSe_Q1",
+      "text": "I typically process my situation by:",
+      "construct1": { "pole": "Si", "description": "Comparing it with past experiences and what is normal." },
+      "construct2": { "pole": "Se", "description": "Paying attention to what is happening in the physical world now." },
+      "constructPair": "SiSe"
+    },
+    {
+      "id": "likert_att_sise_2",
+      "name": "SiSe_Q2",
+      "text": "The context that matters more is:",
+      "construct1": { "pole": "Si", "description": "The historical context, traditions, and procedures." },
+      "construct2": { "pole": "Se", "description": "The concrete facts and details of the immediate situation." },
+      "constructPair": "SiSe"
+    },
+    {
+      "id": "likert_att_sise_3",
+      "name": "SiSe_Q3",
+      "text": "Which description fits better?",
+      "construct1": { "pole": "Si", "description": "I value precision, consistency, and established rules." },
+      "construct2": { "pole": "Se", "description": "I prefer engaging with the present and responding to opportunities." },
+      "constructPair": "SiSe"
+    },
+    {
+      "id": "likert_att_nine_1",
+      "name": "NiNe_Q1",
+      "text": "I typically process information by:",
+      "construct1": { "pole": "Ni", "description": "Focusing inward to grasp the underlying meaning or future implications." },
+      "construct2": { "pole": "Ne", "description": "Exploring outwards, generating possibilities and connections." },
+      "constructPair": "NiNe"
+    },
+    {
+      "id": "likert_att_nine_2",
+      "name": "NiNe_Q2",
+      "text": "Insights typically come to me by:",
+      "construct1": { "pole": "Ni", "description": "A sudden 'aha!' moment that reveals a deeper pattern or future path." },
+      "construct2": { "pole": "Ne", "description": "Actively playing with ideas and brainstorming multiple 'what-ifs'." },
+      "constructPair": "NiNe"
+    },
+    {
+      "id": "likert_att_nine_3",
+      "name": "NiNe_Q3",
+      "text": "When generating ideas, my focus is on:",
+      "construct1": { "pole": "Ni", "description": "My goals or dreams, looking inward for ideas to make them happen." },
+      "construct2": { "pole": "Ne", "description": "Connecting new facts in imaginative ways to create new opportunities." },
+      "constructPair": "NiNe"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Direct Attitude Psychometric Assessment</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="app">
+    <!-- Welcome Screen -->
+    <div id="welcome-screen" class="screen active">
+        <div class="container">
+            <h1>Discover Your Type</h1>
+            <p class="subtitle">This assessment helps you understand your preferences and how you interact with the world. Please answer thoughtfully and honestly for the most accurate result.</p>
+            <button id="start-btn" class="btn btn-primary">Start Assessment</button>
+        </div>
+    </div>
+
+    <!-- Quiz Screen -->
+    <div id="quiz-screen" class="screen">
+        <div class="container">
+            <div id="progress-container">
+                <div id="progress-bar"></div>
+            </div>
+            <div id="question-container">
+                <!-- Question content will be injected here -->
+            </div>
+            <div class="error-text" id="error-message"></div>
+            <div id="navigation-container">
+                <button id="back-btn" class="btn btn-secondary">Back</button>
+                <button id="next-btn" class="btn btn-primary">Next</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Results Screen -->
+    <div id="results-screen" class="screen">
+        <div class="container">
+            <h2>Your Result</h2>
+            <p class="subtitle">Based on your responses, your personality type is most likely:</p>
+            <div id="final-result-card" class="final-type-card">
+                <h3 id="final-type-text">????</h3>
+            </div>
+            <div id="rationale-box" class="info-box">
+                <p><strong>Rationale:</strong> <span id="rationale-text">Calculating...</span></p>
+            </div>
+            <button id="restart-btn" class="btn btn-secondary">Take Again</button>
+        </div>
+    </div>
+</div>
+
+<script src="app.js" type="module"></script>
+</body>
+</html>
