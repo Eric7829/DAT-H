@@ -1,6 +1,25 @@
 {
   "mbtiQuestions": [
     {
+      "number": 2,
+      "part": "I",
+      "dichotomy": "S-N",
+      "facet": "Practical / Conceptual",
+      "question": "If you were a teacher, would you rather teach",
+      "options": {
+        "A": {
+          "text": "fact courses, or",
+          "pole": "S",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "courses involving theory?",
+          "pole": "N",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
       "number": 3,
       "part": "I",
       "dichotomy": "E-I",
@@ -14,6 +33,44 @@
         },
         "B": {
           "text": "rather quiet and reserved?",
+          "pole": "I",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
+      "number": 5,
+      "part": "I",
+      "dichotomy": "S-N",
+      "facet": "Realistic / Imaginative",
+      "question": "Do you usually get along better with",
+      "options": {
+        "A": {
+          "text": "imaginative people, or",
+          "pole": "N",
+          "scoreKey": 0
+        },
+        "B": {
+          "text": "realistic people?",
+          "pole": "S",
+          "scoreKey": 1
+        }
+      }
+    },
+    {
+      "number": 7,
+      "part": "I",
+      "dichotomy": "E-I",
+      "facet": "Gregarious / Intimate",
+      "question": "When you are with a group of people, would you usually rather",
+      "options": {
+        "A": {
+          "text": "join in the talk of the group, or",
+          "pole": "E",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "talk individually with people you know well?",
           "pole": "I",
           "scoreKey": 0
         }
@@ -58,6 +115,44 @@
       }
     },
     {
+      "number": 16,
+      "part": "I",
+      "dichotomy": "E-I",
+      "facet": "Gregarious / Intimate",
+      "question": "Do you tend to spend a lot of time",
+      "options": {
+        "A": {
+          "text": "by yourself, or",
+          "pole": "I",
+          "scoreKey": 0
+        },
+        "B": {
+          "text": "with others?",
+          "pole": "E",
+          "scoreKey": 1
+        }
+      }
+    },
+    {
+      "number": 19,
+      "part": "I",
+      "dichotomy": "E-I",
+      "facet": "Expressive / Contained",
+      "question": "Can you",
+      "options": {
+        "A": {
+          "text": "talk easily to almost anyone for as long as you have to, or",
+          "pole": "E",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "find a lot to say only to certain people or under certain conditions?",
+          "pole": "I",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
       "number": 21,
       "part": "I",
       "dichotomy": "T-F",
@@ -91,6 +186,42 @@
         "B": {
           "text": "a very open person?",
           "pole": "E",
+          "scoreKey": 1
+        }
+      }
+    },
+    {
+      "number": 27,
+      "part": "II",
+      "dichotomy": "S-N",
+      "facet": "Concrete / Abstract",
+      "options": {
+        "A": {
+          "text": "abstract",
+          "pole": "N",
+          "scoreKey": 0
+        },
+        "B": {
+          "text": "solid",
+          "pole": "S",
+          "scoreKey": 1
+        }
+      }
+    },
+    {
+      "number": 29,
+      "part": "II",
+      "dichotomy": "T-F",
+      "facet": "Tough / Tender",
+      "options": {
+        "A": {
+          "text": "gentle",
+          "pole": "F",
+          "scoreKey": 0
+        },
+        "B": {
+          "text": "firm",
+          "pole": "T",
           "scoreKey": 1
         }
       }
@@ -163,6 +294,24 @@
         "B": {
           "text": "touching",
           "pole": "F",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
+      "number": 34,
+      "part": "II",
+      "dichotomy": "S-N",
+      "facet": "Concrete / Abstract",
+      "options": {
+        "A": {
+          "text": "statement",
+          "pole": "S",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "concept",
+          "pole": "N",
           "scoreKey": 0
         }
       }
@@ -258,6 +407,24 @@
       }
     },
     {
+      "number": 44,
+      "part": "II",
+      "dichotomy": "S-N",
+      "facet": "Experiential / Theoretical",
+      "options": {
+        "A": {
+          "text": "theory",
+          "pole": "N",
+          "scoreKey": 0
+        },
+        "B": {
+          "text": "certainty",
+          "pole": "S",
+          "scoreKey": 1
+        }
+      }
+    },
+    {
       "number": 46,
       "part": "II",
       "dichotomy": "S-N",
@@ -289,6 +456,24 @@
         "B": {
           "text": "matter-of-fact",
           "pole": "S",
+          "scoreKey": 1
+        }
+      }
+    },
+    {
+      "number": 51,
+      "part": "II",
+      "dichotomy": "T-F",
+      "facet": "Tough / Tender",
+      "options": {
+        "A": {
+          "text": "warm",
+          "pole": "F",
+          "scoreKey": 0
+        },
+        "B": {
+          "text": "objective",
+          "pole": "T",
           "scoreKey": 1
         }
       }
@@ -330,6 +515,42 @@
       }
     },
     {
+      "number": 57,
+      "part": "II",
+      "dichotomy": "E-I",
+      "facet": "Gregarious / Intimate",
+      "options": {
+        "A": {
+          "text": "quiet",
+          "pole": "I",
+          "scoreKey": 0
+        },
+        "B": {
+          "text": "gregarious",
+          "pole": "E",
+          "scoreKey": 1
+        }
+      }
+    },
+    {
+      "number": 58,
+      "part": "II",
+      "dichotomy": "T-F",
+      "facet": "Logical / Empathetic",
+      "options": {
+        "A": {
+          "text": "analytical",
+          "pole": "T",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "sentimental",
+          "pole": "F",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
       "number": 60,
       "part": "II",
       "dichotomy": "S-N",
@@ -348,6 +569,24 @@
       }
     },
     {
+      "number": 61,
+      "part": "II",
+      "dichotomy": "T-F",
+      "facet": "Tough / Tender",
+      "options": {
+        "A": {
+          "text": "practical",
+          "pole": "T",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "sentimental",
+          "pole": "F",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
       "number": 62,
       "part": "II",
       "dichotomy": "E-I",
@@ -361,6 +600,24 @@
         "B": {
           "text": "private",
           "pole": "I",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
+      "number": 63,
+      "part": "II",
+      "dichotomy": "S-N",
+      "facet": "Traditional / Original",
+      "options": {
+        "A": {
+          "text": "build",
+          "pole": "S",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "invent",
+          "pole": "N",
           "scoreKey": 0
         }
       }
@@ -420,6 +677,24 @@
       }
     },
     {
+      "number": 70,
+      "part": "II",
+      "dichotomy": "T-F",
+      "facet": "Reasonable / Compassionate",
+      "options": {
+        "A": {
+          "text": "bighearted",
+          "pole": "F",
+          "scoreKey": 0
+        },
+        "B": {
+          "text": "firm-minded",
+          "pole": "T",
+          "scoreKey": 1
+        }
+      }
+    },
+    {
       "number": 73,
       "part": "II",
       "dichotomy": "S-N",
@@ -457,6 +732,25 @@
       }
     },
     {
+      "number": 75,
+      "part": "III",
+      "dichotomy": "T-F",
+      "facet": "Logical / Empathetic",
+      "question": "When making a decision, is it more important to you to",
+      "options": {
+        "A": {
+          "text": "weigh the facts, or",
+          "pole": "T",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "consider people's feelings and opinions?",
+          "pole": "F",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
       "number": 79,
       "part": "III",
       "dichotomy": "E-I",
@@ -470,6 +764,25 @@
         },
         "B": {
           "text": "tend to keep more to yourself?",
+          "pole": "I",
+          "scoreKey": 0
+        }
+      }
+    },
+    {
+      "number": 81,
+      "part": "III",
+      "dichotomy": "E-I",
+      "facet": "Expressive / Contained",
+      "question": "Are you",
+      "options": {
+        "A": {
+          "text": "easy to get to know, or",
+          "pole": "E",
+          "scoreKey": 1
+        },
+        "B": {
+          "text": "hard to get to know?",
           "pole": "I",
           "scoreKey": 0
         }
@@ -510,6 +823,25 @@
           "text": "let others do most of the talking?",
           "pole": "I",
           "scoreKey": 0
+        }
+      }
+    },
+    {
+      "number": 85,
+      "part": "III",
+      "dichotomy": "E-I",
+      "facet": "Gregarious / Intimate",
+      "question": "Can you keep a conversation going indefinitely",
+      "options": {
+        "A": {
+          "text": "only with people who share some interest of yours, or",
+          "pole": "I",
+          "scoreKey": 0
+        },
+        "B": {
+          "text": "with almost anyone?",
+          "pole": "E",
+          "scoreKey": 1
         }
       }
     },
